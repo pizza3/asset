@@ -1,0 +1,35 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Bearing
+Ns 138.748159
+Ka 0.208589 0.208589 0.208589
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd https://raw.githubusercontent.com/pizza3/asset/master/Bearing_baseColor.jpg
+
+newmtl truck
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 10
+map_Kd https://raw.githubusercontent.com/pizza3/asset/master/63689814-gray-scratched-metal-surface-abstract-background-and-texture-for-design.jpg
+
+newmtl wheel
+Ns 1.859510
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd https://raw.githubusercontent.com/pizza3/asset/master/wheel_baseColor.jpg
